@@ -1,0 +1,20 @@
+{
+  "code": "NASDAQ",
+  "description": "Nasdaq Index",
+  "sector": "Technology",
+  "country": "United States"
+}
+
+{
+  "code": "NYSE",
+  "description": "New York Stock Exchange",
+  "sector": "Various",
+  "country": "United States"
+}
+
+{
+  "code": "LSE",
+  "description": "London Stock Exchange",
+  "sector": "Finance",
+  "country": "United Kingdom"
+}
