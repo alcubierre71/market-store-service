@@ -13,8 +13,8 @@ public class OpenApiConfig {
     public OpenAPI customOpenAPI() {
         return new OpenAPI()
             .info(new Info()
-                .title("Asset Price Store API")
+                .title("Market Store API")
                 .version("1.0")
-                .description("REST API for managing financial assets and their price data"));
+                .description("REST API for managing financial markets"));
     }
 }

@@ -8,7 +8,7 @@
 {
   "code": "NYSE",
   "description": "New York Stock Exchange",
-  "sector": "Various",
+  "sector": "Global",
   "country": "United States"
 }
 
@@ -18,3 +18,39 @@
   "sector": "Finance",
   "country": "United Kingdom"
 }
+
+{
+  "code": "TSX",
+  "description": "Toronto Stock Exchange",
+  "sector": "Global",
+  "country": "Canada"
+}
+
+{
+  "code": "BSE",
+  "description": "Bombay Stock Exchange",
+  "sector": "Finance",
+  "country": "India"
+}
+
+{
+  "code": "JPX",
+  "description": "Japan Exchange Group",
+  "sector": "Various",
+  "country": "Japan"
+ }
+  
+ {
+  "code": "SSE",
+  "description": "Shanghai Stock Exchange",
+  "sector": "Technology",
+  "country": "China"
+ }
+ 
+ {
+  "code": "DJIA",
+  "description": "Dow Jones Industrial Average",
+  "sector": "Blue Chips",
+  "country": "United States"
+ }
+ 
